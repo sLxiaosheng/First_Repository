@@ -18,3 +18,9 @@
     5月一个月，10G 网速基本和宽带一样
 
     [虎跃](https://www.notion.so/5ea5f1cc9a8644718d0317a45c3ec0f3)
+    
+    在注册时，填写如下邀请码哦
+    你会获得 1元初始资金
+    ```
+    https://huyue.world/auth/register?code=60uz
+    ```
